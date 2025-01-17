@@ -6,7 +6,7 @@
 
 ## Algorithms
 
-* [Bit Manipulation] (https://github.com/usergit9119/LeetCode-Solutions#bit-manipulation)
+* [Bit Manipulation](https://github.com/usergit9119/LeetCode-Solutions#bit-manipulation)
 * [Array]
 
 ## Bit Manipulation
