@@ -1,8 +1,7 @@
 # [LeetCode](https://leetcode.com/problemset/all/)
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
+[![LeetCode user 9119](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2F9119&logo=leetcode&logoColor=yellow)](https://leetcode.com/9119/)
 
 ## Algorithms
 
