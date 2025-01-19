@@ -8,8 +8,6 @@ salam.cpp
 *.out
 *.app
 
-/*  
-**/*  
 *.swp
 *~
 .idea/
